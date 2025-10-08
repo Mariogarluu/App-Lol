@@ -4,6 +4,8 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.animation.animateContentSize
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
@@ -16,6 +18,9 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -74,22 +79,27 @@ fun ChampionCard(
     imageOnLeft: Boolean,
     modifier: Modifier = Modifier
 ) {
+    var expanded by remember { mutableStateOf(false) }
+
     Card(
-        modifier = modifier.fillMaxWidth(),
+        modifier = modifier
+            .fillMaxWidth()
+            .clickable { expanded = !expanded },
         elevation = CardDefaults.cardElevation(defaultElevation = 4.dp)
     ) {
         Row(
             modifier = Modifier
                 .padding(16.dp)
-                .fillMaxWidth(),
+                .fillMaxWidth()
+                .animateContentSize(),
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(16.dp)
         ) {
             if (imageOnLeft) {
                 ChampionImage(champion = champion)
-                ChampionText(champion = champion, modifier = Modifier.weight(1f))
+                ChampionText(champion = champion, expanded = expanded, modifier = Modifier.weight(1f))
             } else {
-                ChampionText(champion = champion, modifier = Modifier.weight(1f))
+                ChampionText(champion = champion, expanded = expanded, modifier = Modifier.weight(1f))
                 ChampionImage(champion = champion)
             }
         }
@@ -109,7 +119,7 @@ fun ChampionImage(champion: Champion, modifier: Modifier = Modifier) {
 }
 
 @Composable
-fun ChampionText(champion: Champion, modifier: Modifier = Modifier) {
+fun ChampionText(champion: Champion, expanded: Boolean, modifier: Modifier = Modifier) {
     Column(
         modifier = modifier,
         verticalArrangement = Arrangement.spacedBy(4.dp)
@@ -127,7 +137,7 @@ fun ChampionText(champion: Champion, modifier: Modifier = Modifier) {
         Text(
             text = stringResource(id = champion.description),
             style = MaterialTheme.typography.bodyMedium,
-            maxLines = 3
+            maxLines = if (expanded) Int.MAX_VALUE else 2
         )
     }
 }
