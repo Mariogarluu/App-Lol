@@ -1,56 +1,57 @@
-<resources>
-    <!-- Ziggs -->
+<resources><!-- Ziggs -->
     <string name="ziggs_name">Ziggs</string>
     <string name="ziggs_title">El Experto en Hexplosivos</string>
-    <string name="ziggs_description">Con un amor por las bombas grandes y las mechas cortas, Ziggs es una fuerza de la naturaleza yordle. Como asistente de un inventor en Piltóver, se aburría de su vida predecible y se hizo amigo de una bombardera demente de pelo azul llamada Jinx.</string>
+    <string name="ziggs_description">Ziggs nació con un talento para la invención, pero su verdadera pasión siempre ha sido todo aquello que hace ¡BOOM! Como asistente de un inventor en Piltóver, se aburría de su vida predecible. Buscando emociones, se hizo amigo de Jinx, una alocada bombardera de pelo azul que compartía su amor por el caos. Tras una serie de explosivas aventuras, Ziggs se dio cuenta de que nunca sería feliz en la rígida ciudad de Piltóver. Ahora reside en Zaun, donde su creatividad y su amor por las explosiones masivas pueden desatarse sin restricciones, convirtiéndolo en una auténtica fuerza de la naturaleza yordle.</string>
 
     <!-- Vi -->
     <string name="vi_name">Vi</string>
     <string name="vi_title">La Vigilante de Piltóver</string>
-    <string name="vi_description">Vi, una antigua criminal de las despiadadas calles de Zaun, es una mujer exaltada, impulsiva y temible con un respeto muy escaso por las figuras de autoridad. Al crecer prácticamente sola, Vi desarrolló un instinto de supervivencia muy agudo y un humor mordaz.</string>
+    <string name="vi_description">Vi, una antigua criminal de las despiadadas calles de Zaun, es una mujer exaltada e impulsiva con muy poco respeto por la autoridad. Al crecer prácticamente sola, desarrolló un instinto de supervivencia muy agudo y un humor mordaz. Ahora, trabajando con los Guardianes de Piltóver, utiliza unos poderosos guanteletes hextech para mantener el orden. Aunque lucha del lado de la ley, su espíritu rebelde y sus métodos agresivos a menudo la enfrentan con su compañera más formal, Caitlyn.</string>
 
     <!-- Teemo -->
     <string name="teemo_name">Teemo</string>
     <string name="teemo_title">El Explorador Veloz</string>
-    <string name="teemo_description">Sin dejarse intimidar ni por los obstáculos más peligrosos, Teemo explora el mundo con un entusiasmo sin límites y un espíritu alegre. Un yordle con un inquebrantable sentido de la moralidad, se enorgullece de seguir el Código de los Exploradores de Bandle.</string>
+    <string name="teemo_description">Sin dejarse intimidar ni por los obstáculos más peligrosos, Teemo explora el mundo con un entusiasmo sin límites y un espíritu alegre. Como yordle con un inquebrantable sentido de la moralidad, se enorgullece de seguir el Código de los Exploradores de Bandle, a veces con demasiado celo. Aunque parezca adorable, Teemo es un guerrero letal que utiliza su cerbatana y sus setas tóxicas para proteger a sus amigos y neutralizar amenazas. Muchos enemigos lo han subestimado, un error que rara vez viven para repetir.</string>
 
     <!-- Taric -->
     <string name="taric_name">Taric</string>
     <string name="taric_title">El Escudo de Valoran</string>
-    <string name="taric_description">Taric es el Aspecto del Protector y ostenta un poder increíble como guardián de la vida, el amor y la belleza de Runaterra. Avergonzado por un abandono de su deber, Taric escaló el Monte Targon en busca de redención, solo para descubrir una llamada superior.</string>
+    <string name="taric_description">Taric es el Aspecto del Protector, y ostenta un poder increíble como guardián de la vida, el amor y la belleza de Runaterra. Antaño un soldado de alto rango en Demacia, fue deshonrado por un abandono de su deber que costó la vida de sus hombres. Exiliado, escaló el formidable Monte Targon en busca de redención, solo para descubrir una llamada superior. Ahora, imbuido de poder celestial, lucha para defender el mundo de la corruptora influencia del Vacío.</string>
 
     <!-- Senna -->
     <string name="senna_name">Senna</string>
     <string name="senna_title">La Redentora</string>
-    <string name="senna_description">Maldita desde la infancia por la Niebla Negra sobrenatural, Senna se unió a una orden sagrada conocida como los Centinelas de la Luz y luchó ferozmente. Pero su esposo Lucian no pudo salvarla del cruel recolector de almas, Thresh.</string>
+    <string name="senna_description">Maldita desde la infancia por la Niebla Negra sobrenatural, Senna se unió a una orden sagrada conocida como los Centinelas de la Luz. Junto a su esposo, Lucian, luchó contra la oscuridad. Sin embargo, fue capturada por el cruel recolector de almas, Thresh, y su alma quedó atrapada en su linterna durante años. Ahora liberada, Senna blande tanto la luz como la sombra, utilizando la misma Niebla que una vez la atormentó como un arma para redimir almas perdidas y acabar con el Harrowing para siempre.</string>
 
     <!-- Neeko -->
     <string name="neeko_name">Neeko</string>
     <string name="neeko_title">La Camaleona Curiosa</string>
-    <string name="neeko_description">Proveniente de una tribu vastaya perdida, Neeko puede mezclarse en cualquier multitud tomando la apariencia de otros, absorbiendo incluso parte de su estado emocional para distinguir amigos de enemigos en un instante. Nadie está seguro de dónde —o quién— podría ser Neeko.</string>
+    <string name="neeko_description">Proveniente de una tribu vastaya perdida, Neeko puede mezclarse en cualquier multitud tomando la apariencia de otros. Observa el mundo con ojos grandes e inocentes, siempre buscando comprender las extrañas costumbres de la civilización. Sus habilidades camaleónicas le permiten absorber el estado emocional de los demás, ayudándola a distinguir amigos de enemigos en un instante. Infinitamente curiosa y sorprendentemente resistente, nadie está seguro de dónde —o quién— podría ser Neeko a continuación.</string>
 
     <!-- Leona -->
     <string name="leona_name">Leona</string>
     <string name="leona_title">El Amanecer Radiante</string>
-    <string name="leona_description">Imbuida con el fuego del sol, Leona es una guerrera sagrada de los Solari que defiende el Monte Targon con su Hoja del Cénit y el Escudo del Amanecer. Su piel brilla con fuego estelar y sus ojos arden con el poder del Aspecto celestial en su interior.</string>
+    <string name="leona_description">Imbuida con el fuego del sol, Leona es una guerrera sagrada de los Solari que defiende el Monte Targon con su Hoja del Cénit y el Escudo del Amanecer. Su piel brilla con fuego estelar y sus ojos arden con el poder del Aspecto celestial en su interior. Elegida para ser el recipiente del Aspecto del Sol, Leona lleva su luz a toda Runaterra, ofreciendo protección a los justos y destrucción a quienes pretenden extender la oscuridad.</string>
 
     <!-- Irelia -->
     <string name="irelia_name">Irelia</string>
     <string name="irelia_title">La Bailarina de las Cuchillas</string>
-    <string name="irelia_description">La ocupación noxiana de Jonia produjo muchos héroes, pero ninguno tan improbable como la joven Irelia de Navori. Entrenada en las danzas ancestrales de su provincia, adaptó su arte para la guerra, usando movimientos gráciles y cuidadosamente practicados para levitar un ejército de cuchillas mortales.</string>
+    <string name="irelia_description">La ocupación noxiana de Jonia produjo muchos héroes, pero ninguno tan improbable como la joven Irelia de Navori. Entrenada en las danzas ancestrales de su provincia, adaptó su arte para la guerra cuando su hogar fue amenazado. Usando sus poderes telequinéticos, levita un ejército de cuchillas mortales, convirtiendo sus gráciles movimientos en un espectáculo letal. Ahora, como líder de la resistencia jonia, es un símbolo de desafío y esperanza para su gente, dispuesta a todo para preservar su libertad.</string>
 
     <!-- Fizz -->
     <string name="fizz_name">Fizz</string>
     <string name="fizz_title">El Gamberro de las Mareas</string>
-    <string name="fizz_description">Fizz es un yordle anfibio que habita entre los arrecifes que rodean Aguas Estancadas. A menudo recupera y devuelve los diezmos arrojados al mar por capitanes supersticiososos, pero hasta los marineros más curtidos saben que no deben cruzarse en su camino.</string>
+    <string name="fizz_description">Fizz es un yordle anfibio que habita entre los arrecifes que rodean Aguas Estancadas. A menudo recupera y devuelve los diezmos arrojados al mar por capitanes supersticiosos, pero hasta los marineros más curtidos saben que no deben cruzarse en su camino. Como el último de su especie, protege ferozmente su nuevo hogar y a las criaturas marinas que lo habitan. Armado con su fiel tridente y controlando el poder de las mareas, este juguetón gamberro puede ser un enemigo sorprendentemente peligroso.</string>
+
+
 
     <!-- Diana -->
     <string name="diana_name">Diana</string>
     <string name="diana_title">El Desdén de la Luna</string>
-    <string name="diana_description">Portando su espada de luna creciente, Diana lucha como una guerrera de los Lunari, una fe casi desaparecida de las tierras alrededor del Monte Targon. Vestida con una armadura reluciente del color de la nieve invernal en la noche, es la encarnación viviente del poder de la luna plateada.</string>
+    <string name="diana_description">Portando su espada de luna creciente, Diana lucha como una guerrera de los Lunari, una fe casi desaparecida en las tierras alrededor del Monte Targon. Vestida con una armadura reluciente del color de la nieve invernal, es la encarnación viviente del poder de la luna plateada. Antigua devota de los Solari, adoradores del sol, fue expulsada por cuestionar sus dogmas. Ahora, busca descubrir la verdadera historia de su pueblo y demostrar el poder de la luna a un mundo que la ha olvidado.</string>
 
     <!-- Annie -->
     <string name="annie_name">Annie</string>
     <string name="annie_title">La Hija de la Oscuridad</string>
-    <string name="annie_description">Peligrosa, pero encantadoramente precoz, Annie es una niña maga con un inmenso poder piromántico. Incluso en las sombras de las montañas de Noxus, es una anomalía mágica. Su afinidad natural por el fuego se manifestó temprano en su vida a través de arrebatos emocionales impredecibles.</string>
+    <string name="annie_description">Peligrosa, pero encantadoramente precoz, Annie es una niña maga con un inmenso poder piromántico. Nacida en las tierras salvajes del norte de Noxus, su afinidad natural por el fuego se manifestó temprano en impredecibles arrebatos emocionales. Su único compañero es su querido oso de peluche, Tibbers, a quien puede transformar en un feroz protector de fuego. Vagando por los oscuros bosques de Noxus, Annie sigue sin ser consciente del verdadero alcance de sus poderes ni de los peligros que buscan explotarlos.</string>
 </resources>

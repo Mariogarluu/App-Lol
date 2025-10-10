@@ -4,55 +4,55 @@
     <!-- Ziggs -->
     <string name="ziggs_name">Ziggs</string>
     <string name="ziggs_title">The Hexplosives Expert</string>
-    <string name="ziggs_description">With a love for big bombs and short fuses, Ziggs is a force of yordle nature. As an inventor\'s assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx.</string>
+    <string name="ziggs_description">Ziggs was born with a talent for tinkering, but his true passion was for things that go BOOM! Working as an inventor\'s assistant in Piltover, he grew bored with his predictable life. Seeking excitement, he befriended Jinx, a wild, blue-haired bomber who shared his love for chaos. After a series of explosive escapades, Ziggs realized he could never be truly happy in the rigid city of Piltover. He now resides in Zaun, where his creativity and love for massive explosions can run wild without restraint, making him a true force of yordle nature.</string>
 
     <!-- Vi -->
     <string name="vi_name">Vi</string>
     <string name="vi_title">The Piltover Enforcer</string>
-    <string name="vi_description">Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up more or less alone, Vi developed finely-honed survival instincts as well as a wickedly abrasive sense of humor.</string>
+    <string name="vi_description">Once a criminal from the lawless streets of Zaun, Vi is a hot-headed and impulsive woman with little respect for authority. Growing up alone, she developed finely-honed survival instincts and a wickedly abrasive sense of humor. Now working with the Wardens of Piltover, she wields powerful hextech gauntlets to maintain order. While she fights on the side of the law, her rebellious spirit and aggressive methods often put her at odds with her more straight-laced partner, Caitlyn.</string>
 
     <!-- Teemo -->
     <string name="teemo_name">Teemo</string>
     <string name="teemo_title">The Swift Scout</string>
-    <string name="teemo_description">Undaunted by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout\'s Code.</string>
+    <string name="teemo_description">Undaunted by even the most dangerous of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout\'s Code, sometimes with a little too much zeal. Though he looks cute, Teemo is a deadly warrior, using his blowgun and toxic mushrooms to protect his friends and neutralize threats. Many enemies have underestimated him, a mistake they rarely live to repeat.</string>
 
     <!-- Taric -->
     <string name="taric_name">Taric</string>
     <string name="taric_title">The Shield of Valoran</string>
-    <string name="taric_description">Taric is the Aspect of the Protector, wielding incredible power as Runeterra’s guardian of life, love, and beauty. Shamed by a dereliction of duty, Taric climbed Mount Targon for redemption, only to discover a higher calling.</string>
+    <string name="taric_description">Taric is the Aspect of the Protector, wielding incredible power as Runeterra\'s guardian of life, love, and beauty. Once a high-ranking soldier of Demacia, he was shamed by a dereliction of duty that cost his men their lives. Exiled, he climbed the formidable Mount Targon seeking redemption, only to discover a higher calling. Now, infused with celestial power, he fights to defend the world from the corrupting influence of the Void.</string>
 
     <!-- Senna -->
     <string name="senna_name">Senna</string>
     <string name="senna_title">The Redeemer</string>
-    <string name="senna_description">Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back. But her husband Lucian could not save her from the cruel soul-collector Thresh.</string>
+    <string name="senna_description">Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light. Alongside her husband, Lucian, she fought back against the darkness. However, she was ultimately captured by the cruel soul-collector Thresh, her soul trapped in his lantern for years. Now freed, Senna wields both light and shadow, using the very Mist that once tormented her as a weapon to redeem lost souls and end the Harrowing for good.</string>
 
     <!-- Neeko -->
     <string name="neeko_name">Neeko</string>
     <string name="neeko_title">The Curious Chameleon</string>
-    <string name="neeko_description">Hailing from a long-lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in a heartbeat. No one is ever sure where—or who—Neeko might be.</string>
+    <string name="neeko_description">Hailing from a long-lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others. She watches the world with wide, innocent eyes, always seeking to understand the strange customs of civilization. Her chameleon-like abilities allow her to absorb the emotional state of others, helping her distinguish friend from foe in a heartbeat. Endlessly curious and surprisingly resilient, no one is ever sure where—or who—Neeko might be next.</string>
 
     <!-- Leona -->
     <string name="leona_name">Leona</string>
     <string name="leona_title">The Radiant Dawn</string>
-    <string name="leona_description">Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire, and her eyes burn with the power of the celestial Aspect within her.</string>
+    <string name="leona_description">Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and Shield of Daybreak. Her skin shimmers with starfire, and her eyes burn with the power of the celestial Aspect within her. Chosen to be the vessel for the Aspect of the Sun, Leona brings its light to all of Runeterra, offering protection to the righteous and destruction to those who would spread darkness.</string>
 
     <!-- Irelia -->
     <string name="irelia_name">Irelia</string>
     <string name="irelia_title">The Blade Dancer</string>
-    <string name="irelia_description">The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practiced movements to levitate a host of deadly blades.</string>
+    <string name="irelia_description">The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war when her home was threatened. Using her telekinetic powers, she levitates a host of deadly blades, turning her graceful movements into a lethal spectacle. Now a leader of the Ionian resistance, she is a symbol of defiance and hope for her people, willing to do anything to preserve their freedom.</string>
 
     <!-- Fizz -->
     <string name="fizz_name">Fizz</string>
     <string name="fizz_title">The Tidal Trickster</string>
-    <string name="fizz_description">Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him.</string>
+    <string name="fizz_description">Fizz is an amphibious yordle who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him. As the last of his kind, he is fiercely protective of his new home and the sea creatures within it. Armed with his trusty trident and commanding the power of the tides, this playful trickster can be a surprisingly dangerous foe.</string>
 
     <!-- Diana -->
     <string name="diana_name">Diana</string>
     <string name="diana_title">Scorn of the Moon</string>
-    <string name="diana_description">Bearing her crescent moonblade, Diana fights as a warrior of the Lunari, a faith all but vanished from the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon’s power.</string>
+    <string name="diana_description">Bearing her crescent moonblade, Diana fights as a warrior of the Lunari, a faith all but vanished from the lands around Mount Targon. Clad in shimmering armor the color of winter snow, she is a living embodiment of the silver moon’s power. Once a devout member of the sun-worshipping Solari, she was cast out for questioning their dogma. Now, she seeks to uncover the true history of her people and prove the power of the moon to a world that has forgotten it.</string>
 
     <!-- Annie -->
     <string name="annie_name">Annie</string>
     <string name="annie_title">The Dark Child</string>
-    <string name="annie_description">Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts.</string>
+    <string name="annie_description">Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Born in the northern wilds of Noxus, her natural affinity for fire manifested early in unpredictable, emotional outbursts. Her only companion is her beloved teddy bear, Tibbers, whom she can transform into a ferocious, fiery protector. Wandering the dark forests of Noxus, Annie remains unaware of the true extent of her powers or the dangers that seek to exploit them.</string>
 </resources>
