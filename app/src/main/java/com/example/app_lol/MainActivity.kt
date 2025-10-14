@@ -41,26 +41,21 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             AppLolTheme {
-                // El NavController es el cerebro de la navegación
                 val navController = rememberNavController()
 
                 Scaffold { innerPadding ->
-                    // NavHost define el grafo de navegación
                     NavHost(
                         navController = navController,
                         startDestination = "champion_list", // La pantalla inicial
                         modifier = Modifier.padding(innerPadding)
                     ) {
-                        // Ruta para la lista de campeones
                         composable("champion_list") {
                             ChampionListScreen(navController = navController)
                         }
-                        // Ruta para la pantalla de detalles, con un argumento (championId)
                         composable(
                             route = "champion_detail/{championId}",
                             arguments = listOf(navArgument("championId") { type = NavType.IntType })
                         ) { backStackEntry ->
-                            // Obtenemos el ID del campeón desde los argumentos de la ruta
                             val championId = backStackEntry.arguments?.getInt("championId")
                             if (championId != null) {
                                 ChampionDetailScreen(championId = championId, navController = navController)
@@ -73,7 +68,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//--- Pantalla 1: Lista de Campeones ---
 
 @Composable
 fun ChampionListScreen(
